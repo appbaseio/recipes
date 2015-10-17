@@ -1,3 +1,3 @@
 # recipes
 
-[Getting started wiki] (https://github.com/appbaseio/recipies/wiki/Getting-Started)
+[Appbase Developer Program] (https://github.com/appbaseio/recipes/wiki/Appbase-Developer-Program)

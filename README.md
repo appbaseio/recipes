@@ -1,3 +1,3 @@
-# recipes
+# Important Page Links
 
-[Appbase Developer Program] (https://github.com/appbaseio/recipes/wiki/Appbase-Developer-Program)
+[appbase.io's makers' program] (https://github.com/appbaseio/recipes/wiki/appbase.io-makers'-program)
